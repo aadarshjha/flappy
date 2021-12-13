@@ -1,0 +1,10 @@
+Episode: 1, Score: 0, Average Score: 0.0, Reward: -10, Average Reward: -10.0
+Episode: 2, Score: 0, Average Score: 0.0, Reward: -10, Average Reward: -10.0
+Episode: 3, Score: 0, Average Score: 0.0, Reward: -10, Average Reward: -10.0
+Episode: 4, Score: 0, Average Score: 0.0, Reward: -10, Average Reward: -10.0
+Episode: 5, Score: 0, Average Score: 0.0, Reward: -10, Average Reward: -10.0
+Episode: 6, Score: 0, Average Score: 0.0, Reward: -10, Average Reward: -10.0
+Episode: 7, Score: 0, Average Score: 0.0, Reward: -10, Average Reward: -10.0
+Episode: 8, Score: 0, Average Score: 0.0, Reward: -10, Average Reward: -10.0
+Episode: 9, Score: 1, Average Score: 0.1111111111111111, Reward: -9, Average Reward: -9.88888888888889
+Episode: 10, Score: 0, Average Score: 0.1, Reward: -10, Average Reward: -9.9
